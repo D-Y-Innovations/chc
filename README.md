@@ -7,7 +7,7 @@
 2. 实现一个类似[github contributors的图表][chart]  
 * 具备框选、拉伸选中框的功能
 * 读取框选区域的坐标
-* 请使用canvas或者svg实现
+* 使用canvas或者svg实现
 
 3. 实现一个quicksort算法  
 
