@@ -5,7 +5,7 @@
     * 调用[github api][github_api_v3]实现搜索功能
 
 2. 实现一个类似[github contributors的图表][chart]  
-    * 具备框选、拉伸选中框的功能
+    * 具备框选、拉伸、移动选中框的功能
     * 读取框选区域的坐标
     * 使用canvas或者svg实现
 
